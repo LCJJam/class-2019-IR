@@ -15,6 +15,7 @@ Contact:
 
 ## IMPORTANT NOTICE
 * Team up until Mar. 14 & tell TA your team's Github repository (forked from https://github.com/nongaussian/tinyse-submit).
+* Stage 1 due date -> Mar. 28 (Thu) 11:59pm
 
 ## Week 1.
 
@@ -23,6 +24,13 @@ Contact:
 
 ## Week 2.
 
-* Overview of inverted indexes
+* Overview of inverted indexes (See IR01-invidx.pdf)
+* A sample IR research exploiting inverted indexes
 
-## Final Exam
+## Weak 3.
+
+* Tokenization (See IR02-tokenization.pdf)
+* Intro to Github (See IR-stage1-github.pdf)
+* Stage 1. Tokenization (See IR-stage1.pdf)
+* Stage 1 due date -> Mar. 28 (Thu) 11:59pm
+
